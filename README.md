@@ -1,2 +1,2 @@
-# one-shot-scheduler
+# One Shot Scheduler
 Make tasks great again.
