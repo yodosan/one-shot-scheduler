@@ -1,0 +1,56 @@
+# [:emoji:] [<type>:] (If applied, this commit will...) <subject> (Max 50 char)
+# |<----  Using a Maximum Of 50 Characters  ---->|
+#
+# Explain why this change is being made
+# |<----   Try To Limit Each Line to a Maximum Of 72 Characters   ---->|
+#
+# Provide links or keys to any relevant tickets, articles or other resources
+# Example: http://redmine.vidiemme.it/issues/<issue-id>
+#
+# --- COMMIT END ---
+#
+# Type can be
+#    feat (new feature)
+#    fix (bug fix)
+#    wip (work in progress)
+#    docs (changes to documentation)
+#    style (formatting, missing semi colons, etc; no code change)
+#    refactor (refactoring production code)
+#    test (adding missing tests, refactoring tests; no production code change)
+#    chore (updating grunt tasks etc; no production code change)
+# --------------------
+# Remember to
+#    Separate subject from body with a blank line
+#    Limit the subject line to 50 characters
+#    Capitalize the subject line
+#    Do not end the subject line with a period
+#    Use the imperative mood in the subject line
+#    Wrap the body at 72 characters
+#    Use the body to explain what and why vs. how
+#    Can use multiple lines with "-" for bullet points in body
+# --------------------
+# Work hard, play hard!
+# Consider prefixing your commit messages with a relevant emoji for great good.
+#    🎉 :tada: initial commit
+#    ⚡️ :zap: general update
+#    🚧 :construction: work in progress (wip)
+#    ✨ :sparkles: new feature
+#    🔖 :bookmark: tagging
+#    🐛 :bug: when fixing a bug
+#    🔥 :fire: when removing code or files
+#    💄 :lipstick: when working on UI
+#    🎨 :art: when improving the format/structure of the code
+#    📚 :books: when writing docs
+#    🐎 :racehorse: when improving performance
+#    ✅ :white_check_mark: when adding tests
+#    🔒 :lock: when dealing with security
+#    🔧 :wrench: changing configuration files
+#    ⬆️ :arrow_up: when upgrading dependencies
+#    ⬇️ :arrow_down: when downgrading dependencies
+#    📇 :card_index: metadata
+#    🌐 :globe_with_meridians: internationalization
+#    🏦 :bank: generic Database specific (Migrations, Scripts, Extensions, ...)
+#    🐳 :whale: Docker
+#    🚀 :rocket: changing deploying stuff
+#
+#    Example: :books: docs: Add API documentation
